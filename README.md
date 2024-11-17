@@ -1,1 +1,2 @@
-# 2208107010002_ReviewCNN
+# Review CNN dan Implementasi pada kode
+
