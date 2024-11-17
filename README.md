@@ -1,6 +1,6 @@
 # Review: Deep Learning dan Convolutional Neural Networks (CNN)
 
-1. Pengantar CNN
+1. Pengantar CNN :
 CNN adalah salah satu teknik deep learning yang dikembangkan untuk menangani data visual. Pendekatan ini memungkinkan komputer untuk mengenali objek secara otomatis, seperti pengenalan wajah di media sosial atau sistem keamanan berbasis CCTV. Dibandingkan dengan pendahulunya, Artificial Neural Networks (ANN), CNN lebih efektif untuk data visual karena kemampuan spesifiknya dalam mendeteksi fitur dalam gambar.
 
 2. Kontribusi Pionir Deep Learning
